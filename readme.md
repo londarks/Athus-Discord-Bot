@@ -19,7 +19,7 @@
 ### :computer: Instalação
  
 1. Clone o repositorio
-2. install dependências ``` pip install -r requirements.txt  ```
+2. instale as dependências ``` pip install -r requirements.txt  ```
 3. Adicione seu Token no arquivo ```key.py```
 4. Adicione no arquivo ```main.py```  o id do seu canal de boas vindas
 5. Rode o bot com  ``` python or py main.py ```
