@@ -35,7 +35,7 @@ projeto corrigindo Bugs **ou adicionando mais comandos**, Basta enviar um um Pul
 </h1>
 
 Ele foi criado principalmente para ser um bot Social ou seja tem bastantes comandos de passa tempo,
-porem nem todos os comandos fora Adicionado Comandos até o Momento:
+porem nem todos os comandos foram Adicionados:
 
 <table id="t01">
   <tr>
