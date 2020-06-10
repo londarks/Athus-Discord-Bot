@@ -121,7 +121,7 @@ porem nem todos os comandos foram Adicionados:
 </table>
 
 ## Autor
-- **Londarks** - _Developer & Member of He4rt Developers_ - [Twitter](https://twitter.com/londarks)
+- **Londarks** - _Developer_ - [Twitter](https://twitter.com/londarks)
 
 ## Colaboradores
 - **KURONARU** - _Developer_ - [github](https://github.com/KURONARU96)
