@@ -125,6 +125,3 @@ porem nem todos os comandos foram Adicionados:
 
 ## Colaboradores
 - **KURONARU** - _Developer_ - [github](https://github.com/KURONARU96)
-
-## Website
-- **Website Athus** [Website](https://athusbot.github.io)
