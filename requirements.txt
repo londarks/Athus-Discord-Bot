@@ -11,7 +11,6 @@ requests==2.22.0
 requests-toolbelt==0.9.1
 urllib3==1.25.8
 websockets==8.1
-Pillow==7.0.0
 jikanpy==3.4.2
 imgurpython==1.1.7
 psutil==5.7.0
